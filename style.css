@@ -1,0 +1,81 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 40px;
+  margin-left: 150px;
+}
+
+.contenitore{
+  margin:50px;
+  text-align: center;
+  border:5px solid rgba(30,26,26,0.11);
+  border-radius: 5px;
+  background-color: rgba(0,0,0,0.32);
+  }
+
+.logo{
+width: 200px;
+}
+
+h1{
+  color: lawngreen;
+
+}
+nav{
+  margin: auto;
+  border-style:solid;
+  color: lawngreen;
+  background-color: lawngreen;
+
+}
+button{
+margin:auto;
+display: inline-block ;
+  }
+
+main{
+  text-align: left;
+  margin: 20px;
+}
+
+.subject{
+  color: white;
+}
+.body{
+  color: white;
+}
+
+.barra-arancione{
+  margin: 5px 1px;
+  margin-right: 550px;
+  margin-bottom: 20px;
+  display:block;
+  border-radius:5px;
+  padding: 10px;
+  border-style: solid;
+  color: orange;
+  background-color: orange;
+}
+
+.barra-verde{
+  margin: 5px 1px;
+  margin-right: 100px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px;
+  border-style: solid;
+  color: lawngreen;
+  background-color: lawngreen;
+}
+
+.barra-rosso{
+  margin: 5px 1px;
+  margin-right: 850px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px;
+  border-style: solid;;
+  color: maroon;
+  background-color: maroon;
+}
